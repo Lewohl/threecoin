@@ -1,4 +1,6 @@
 # Threecoin
+![Uploading threecoin.gif…]()
+
 
 A 3D interactive Threecoin built with Three.js.
 
